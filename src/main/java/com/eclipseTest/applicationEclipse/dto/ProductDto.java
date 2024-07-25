@@ -8,7 +8,7 @@ import lombok.Data;
 @AllArgsConstructor
 @Builder
 public class ProductDto {
-	
+	// This is the example of dto
 private String productName;
 	
 	private Integer productQuantity;
