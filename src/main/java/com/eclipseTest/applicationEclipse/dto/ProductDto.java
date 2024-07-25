@@ -9,6 +9,10 @@ import lombok.Data;
 @Builder
 public class ProductDto {
 	// This is the example of dto
+	
+	
+	// This should be the correct one
+	
 private String productName;
 	
 	private Integer productQuantity;
